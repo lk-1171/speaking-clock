@@ -1,0 +1,4 @@
+com\spclock\springboot\service\TimeService.class
+com\spclock\springboot\SpeakingClockApplication.class
+com\spclock\springboot\controller\TimeController.class
+com\spclock\springboot\SwaggerConfig.class
